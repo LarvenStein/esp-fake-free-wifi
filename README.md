@@ -14,3 +14,6 @@ When People try to Log in with the Captive Portal, they get a not so nice supris
 3. Select yor ESP8266 Board in "Tools -> Board"
 4. Change the SSID, if yout want at `const char* SSID_NAME = "SSID HERE"`
 5. Load `hotspot.ino` in your Arduino IDE and flash it to your ESP
+
+## Unmimimized Login Page HTML
+[View on Codepen](https://codepen.io/larvenstein/pen/yLqveZa)
